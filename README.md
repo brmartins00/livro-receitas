@@ -3,4 +3,4 @@
 ##### Índice de Receitas
 
 1. Pizza de Frango :chicken:
-2. 
+2. Pizza de Atum :fish:
